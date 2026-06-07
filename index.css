@@ -742,3 +742,61 @@ background-color: #1C2123;
   color:#DC9457;
   border: solid 1px #DC9457;
 }
+footer{
+ height: 60vh;
+  width: 99vw;
+}
+.footer-container-1{
+  font-family: "Rubik", sans-serif;
+  padding: 3rem 11rem;
+  height: 87%;
+  width: 100%;
+  
+}
+.footer-container-2{
+    padding: 0 16rem;
+  height: 100%;
+  width: 100%;
+  display: flex;
+    gap: 2rem;
+    flex-direction: column;
+
+}
+.grand-burger-logo-image{
+  display: flex;
+  justify-content: center;
+}
+
+.contact-info-location{
+  display: flex;
+  flex-direction: column;
+  gap: .8rem;
+}
+.social-media{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  gap: .8rem;
+}
+.contact-main-container{
+  display: flex;
+  gap: 5rem;
+
+  
+}
+.copy-right{
+  display: flex;
+  justify-content: space-between;
+      align-items: center;
+
+
+
+}
+.origina-text-cursive{
+  font-family: "Pacifico", cursive;
+  font-size: 2em;
+  font-weight: 400;
+  
+  
+}
+ 
